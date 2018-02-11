@@ -1,0 +1,78 @@
+body{
+	background-color:rgb(245,245,245);
+
+}
+
+#navbar ul{
+	list-style: none;
+}
+.change_content{
+	text-align:center;
+	background-color:rgb(225,225,225);
+	padding:2% 0 2% 0;
+}
+.change_content:hover{
+	background-color:rgb(245,245,245);
+}
+
+.header{
+	margin-bottom:0%;
+	height:20%;
+}
+
+.day{
+	margin-top:5%;
+	padding:1%;
+	background-color:rgb(255,255,255);
+	border:1px solid rgb(45,45,45);
+}
+
+input{
+	background-color:rgb(255,255,255);
+	border:1px solid rgb(45,45,45);
+	margin:0.2%;
+
+}
+
+button{
+	border:1px solid black;
+	background-color:rgb(255,255,255);
+	margin:0.2%;
+	padding:0 2% 0 2%;
+}
+button:hover{
+	border:1px solid white;
+	background-color:rgb(245,245,245);
+	color:rgb(100,100,100);
+}
+
+
+.activity{
+	margin-top:1%;
+}
+
+.stat{
+	background-color:rgb(155,155,200);
+}
+.work{
+	background-color:rgb(155,155,200);
+}
+.leasure{
+	background-color:rgb(155,200,155);
+}
+.social{
+	background-color:rgb(185,185,185);
+}
+.family{
+	background-color:rgb(200,155,155);
+}
+.sports{
+	background-color:rgb(155,125,155);
+}
+
+.update{
+	float:right;
+}
+.delete{
+	float:right;
+}
